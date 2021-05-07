@@ -1,1 +1,1 @@
-# 33_Pr-ctica_2_Cartelera
+# 33_Practica_2_CARTELERA
